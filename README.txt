@@ -4,6 +4,7 @@ build in php 7.2
 git clone https://github.com/wendellkuci/totalvoice.git
 
 -> install dependencies: 
+cd totalvoice
 composer install
 
 -> config: 
